@@ -1,0 +1,7 @@
+{
+  "name": "Distance Measure",
+  "author": "haboqueferus346@gmail.com",
+  "license": "MIT",
+  "version": "0.0.10",
+  "description": "A simple library to use Ultrasonic Sensor"
+}
